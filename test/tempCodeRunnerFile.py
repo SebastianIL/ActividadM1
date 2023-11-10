@@ -1,0 +1,1 @@
+self.grid = MultiGrid(width, height, True)
